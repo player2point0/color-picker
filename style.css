@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	user-select: none;
+}
+
+#container {
+	float: right;
+	width: 25vw;
+	padding: 0.5rem;
+	text-align: right;
+	transform: translateY(calc(100vh - 100%));
+}
+
+#container h1{
+	color: white;
+	text-shadow: 0px 0px 10px black;
+	display: inline-block;
+}
